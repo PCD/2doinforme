@@ -1,6 +1,12 @@
 body{
-  background: white url(../images/nayarit-ojo-dios.png) no-repeat 20px 20px;
+  background: white url(../images/nayarit-ojo-dios.png) no-repeat center 20px;
   min-width: 960px;
+}
+body.toolbar{
+  background-position: center 50px;
+}
+body.toolbar.toolbar-drawer{
+  background-position: center 84px;
 }
 .l-page{
   background: url(../images/grecasrojas.png) no-repeat right top;
@@ -16,12 +22,10 @@ body{
   width: 100%;
 }
 .front .views-slideshow-controls-bottom{
-  padding: 0 235px;
-  margin: 0 -235px;
-}
-.front .l-content .contextual-links-wrapper{
-  right: 235px;
+  /*padding: 0 235px;
+  margin: 0 -235px;*/
 }
 .front .view-segundo-informe .view-content{
   background: white url(../images/flag-bg.png) repeat-y center 0;
+  /*background: white;*/
 }

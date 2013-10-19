@@ -1,4 +1,14 @@
 (function ($) {
+  /**
+   * Disables Colorbox for Mobile.
+   */
+  Drupal.behaviors.disableColorbox = {
+    attach: function (context, settings) {
+      if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
+        $.colorbox.remove();
+      }
+    }
+  };
 
   /**
    * Set height for Slider at HomePage

@@ -73,14 +73,22 @@
  ******************************************************************************/
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.2doinforme\.com\/themes\/segundoinforme\/sass\/layout\/_default\.scss}line{font-family:\000031}}
 body {
-  background: white url(../images/nayarit-ojo-dios.png) no-repeat 20px 20px;
+  background: white url(../images/nayarit-ojo-dios.png) no-repeat center 20px;
   min-width: 960px; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.2doinforme\.com\/themes\/segundoinforme\/sass\/layout\/_default\.scss}line{font-family:\000035}}
+body.toolbar {
+  background-position: center 50px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.2doinforme\.com\/themes\/segundoinforme\/sass\/layout\/_default\.scss}line{font-family:\000038}}
+body.toolbar.toolbar-drawer {
+  background-position: center 84px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.2doinforme\.com\/themes\/segundoinforme\/sass\/layout\/_default\.scss}line{font-family:\0000311}}
 .l-page {
   background: url(../images/grecasrojas.png) no-repeat right top; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.2doinforme\.com\/themes\/segundoinforme\/sass\/layout\/_default\.scss}line{font-family:\0000311}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.2doinforme\.com\/themes\/segundoinforme\/sass\/layout\/_default\.scss}line{font-family:\0000317}}
 .l-header,
 .front .view-segundo-informe .skin-default,
 .l-main,
@@ -88,35 +96,30 @@ body {
   margin: 0 auto;
   width: 960px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.2doinforme\.com\/themes\/segundoinforme\/sass\/layout\/_default\.scss}line{font-family:\0000315}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.2doinforme\.com\/themes\/segundoinforme\/sass\/layout\/_default\.scss}line{font-family:\0000321}}
 .front .l-main {
   width: 100%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.2doinforme\.com\/themes\/segundoinforme\/sass\/layout\/_default\.scss}line{font-family:\0000318}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.2doinforme\.com\/themes\/segundoinforme\/sass\/layout\/_default\.scss}line{font-family:\0000324}}
 .front .views-slideshow-controls-bottom {
-  padding: 0 235px;
-  margin: 0 -235px; }
+  /*padding: 0 235px;
+  margin: 0 -235px;*/ }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.2doinforme\.com\/themes\/segundoinforme\/sass\/layout\/_default\.scss}line{font-family:\0000322}}
-.front .l-content .contextual-links-wrapper {
-  right: 235px; }
-
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.2doinforme\.com\/themes\/segundoinforme\/sass\/layout\/_default\.scss}line{font-family:\0000325}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.2doinforme\.com\/themes\/segundoinforme\/sass\/layout\/_default\.scss}line{font-family:\0000328}}
 .front .view-segundo-informe .view-content {
-  background: white url(../images/flag-bg.png) repeat-y center 0; }
+  background: white url(../images/flag-bg.png) repeat-y center 0;
+  /*background: white;*/ }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.2doinforme\.com\/themes\/segundoinforme\/sass\/regions\/_header\.scss}line{font-family:\000031}}
 .l-header {
   padding-top: 40px;
-  background: url(../images/cover-ojo.png) repeat-y;
-  -webkit-box-shadow: -12px -6px 48px 0px #ffffff;
-  box-shadow: -12px -6px 48px 0px #ffffff; }
+  background: url(../images/cover-ojo.png) repeat-y; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.2doinforme\.com\/themes\/segundoinforme\/sass\/regions\/_header\.scss}line{font-family:\000037}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.2doinforme\.com\/themes\/segundoinforme\/sass\/regions\/_header\.scss}line{font-family:\000035}}
 .l-region--header {
   margin-left: 206px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.2doinforme\.com\/themes\/segundoinforme\/sass\/regions\/_header\.scss}line{font-family:\0000310}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.2doinforme\.com\/themes\/segundoinforme\/sass\/regions\/_header\.scss}line{font-family:\000038}}
 .l-region--navigation {
   clear: both; }
 
@@ -321,6 +324,16 @@ body {
   background: white url(../images/olitas.png) no-repeat bottom center !important;
   padding-bottom: 165px;
   box-sizing: content-box; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.2doinforme\.com\/themes\/segundoinforme\/sass\/components\/_slider\.scss}line{font-family:\0000342}}
+#cboxLoadedContent > div,
+#cboxLoadedContent .media-youtube-video {
+  height: 100%; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.2doinforme\.com\/themes\/segundoinforme\/sass\/components\/_slider\.scss}line{font-family:\0000345}}
+.media-youtube-player {
+  width: 100% !important;
+  height: 100% !important; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.2doinforme\.com\/themes\/segundoinforme\/sass\/components\/_logos\.scss}line{font-family:\000031}}
 .l-branding {
