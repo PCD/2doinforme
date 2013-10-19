@@ -1,0 +1,40 @@
+.front #views_slideshow_cycle_main_segundo_informe-page{
+  background: black;
+}
+.front .views-slideshow-controls-bottom{
+  background: white;
+}
+#views_slideshow_cycle_teaser_section_segundo_informe-page{
+  background: black;
+}
+#views_slideshow_cycle_main_segundo_informe-page, 
+#views_slideshow_cycle_teaser_section_segundo_informe-page, 
+.views-slideshow-cycle-main-frame-row, 
+#views_slideshow_cycle_main_segundo_informe-page .views-slideshow-cycle-main-frame-row-item, 
+#views_slideshow_cycle_main_segundo_informe-page .views-slideshow-cycle-main-frame-row-item img{
+  width: 100% !important;
+}
+#views_slideshow_cycle_teaser_section_segundo_informe-page, 
+#views_slideshow_cycle_main_segundo_informe-page .views-slideshow-cycle-main-frame-row-item img{
+  height: auto !important;
+}
+#widget_pager_bottom_segundo_informe-page .views-slideshow-pager-field-item{
+  padding-top: 10px;
+  margin-right: 10px;
+  overflow: hidden;
+  float: left;
+}
+#widget_pager_bottom_segundo_informe-page .views-slideshow-pager-field-item.last{
+  margin-right: 0;
+  float: right;
+}
+#widget_pager_bottom_segundo_informe-page .views-slideshow-pager-field-item img{
+  width: 100%;
+  height: auto;
+  cursor: pointer;
+}
+#widget_pager_bottom_segundo_informe-page{
+  background: white url(../images/olitas.png) no-repeat bottom center !important;
+  padding-bottom: 165px;
+  box-sizing: content-box;
+}

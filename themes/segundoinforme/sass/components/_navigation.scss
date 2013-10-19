@@ -1,0 +1,39 @@
+#block-system-main-menu ul, 
+#block-system-main-menu ul li{
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+#block-system-main-menu ul{
+  height: 61px;
+}
+#block-system-main-menu ul li{
+  float: left;
+}
+#block-system-main-menu ul li.last{
+  margin-right: 0;
+}
+#block-system-main-menu ul li a{
+  background: #f0f0f0;
+  display: block;
+  text-transform: uppercase;
+  font-family: 'Open Sans', sans-serif;
+  padding: 20px 18px 21px 17px;
+  font-size: 17px;
+  color: #403e3e;
+  text-decoration: none;
+  line-height: 20px;
+  font-weight: 600;
+  border-top: 1px solid #cdcdcd;
+  border-right: 1px solid #cdcdcd;
+  border-bottom: 1px solid #cdcdcd;
+}
+#block-system-main-menu ul li.first a{
+  border-left: 1px solid #cdcdcd;
+}
+#block-system-main-menu ul li a:hover,
+#block-system-main-menu ul li a.active{
+  background: #303030;
+  border-color: #303030;
+  color: #fff;
+}
