@@ -71,44 +71,52 @@
  * components should not be placed here and should instead be kept with the
  * relevant SCSS for that component.
  ******************************************************************************/
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.2doinforme\.com\/themes\/segundoinforme\/sass\/layout\/_default\.scss}line{font-family:\000034}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.2doinforme\.com\/themes\/segundoinforme\/sass\/layout\/_default\.scss}line{font-family:\000031}}
+body {
+  background: white url(../images/nayarit-ojo-dios.png) no-repeat 20px 20px;
+  min-width: 960px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.2doinforme\.com\/themes\/segundoinforme\/sass\/layout\/_default\.scss}line{font-family:\000035}}
+.l-page {
+  background: url(../images/grecasrojas.png) no-repeat right top; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.2doinforme\.com\/themes\/segundoinforme\/sass\/layout\/_default\.scss}line{font-family:\0000311}}
 .l-header,
 .front .view-segundo-informe .skin-default,
 .l-main,
-.l-footer {
-  padding: 0 235px; }
+.l-footer .l-region--footer {
+  margin: 0 auto;
+  width: 960px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.2doinforme\.com\/themes\/segundoinforme\/sass\/layout\/_default\.scss}line{font-family:\000037}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.2doinforme\.com\/themes\/segundoinforme\/sass\/layout\/_default\.scss}line{font-family:\0000315}}
+.front .l-main {
+  width: 100%; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.2doinforme\.com\/themes\/segundoinforme\/sass\/layout\/_default\.scss}line{font-family:\0000318}}
 .front .views-slideshow-controls-bottom {
   padding: 0 235px;
   margin: 0 -235px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.2doinforme\.com\/themes\/segundoinforme\/sass\/layout\/_default\.scss}line{font-family:\0000311}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.2doinforme\.com\/themes\/segundoinforme\/sass\/layout\/_default\.scss}line{font-family:\0000322}}
 .front .l-content .contextual-links-wrapper {
   right: 235px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.2doinforme\.com\/themes\/segundoinforme\/sass\/layout\/_default\.scss}line{font-family:\0000314}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.2doinforme\.com\/themes\/segundoinforme\/sass\/layout\/_default\.scss}line{font-family:\0000325}}
 .front .view-segundo-informe .view-content {
-  background: #d81d1f url(../images/red-flag-235.png) repeat-y right 0; }
-
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.2doinforme\.com\/themes\/segundoinforme\/sass\/layout\/_default\.scss}line{font-family:\0000317}}
-.front .view-segundo-informe .skin-default {
-  background: url(../images/green-flag-235.png) repeat-y; }
+  background: white url(../images/flag-bg.png) repeat-y center 0; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.2doinforme\.com\/themes\/segundoinforme\/sass\/regions\/_header\.scss}line{font-family:\000031}}
-.l-page {
-  background: white url(../images/nayarit-ojo-dios.png) no-repeat 20px 20px; }
-
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.2doinforme\.com\/themes\/segundoinforme\/sass\/regions\/_header\.scss}line{font-family:\000034}}
 .l-header {
-  background: url(../images/grecasrojas.png) no-repeat right top;
-  padding-top: 40px; }
+  padding-top: 40px;
+  background: url(../images/cover-ojo.png) repeat-y;
+  -webkit-box-shadow: -12px -6px 48px 0px #ffffff;
+  box-shadow: -12px -6px 48px 0px #ffffff; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.2doinforme\.com\/themes\/segundoinforme\/sass\/regions\/_header\.scss}line{font-family:\000038}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.2doinforme\.com\/themes\/segundoinforme\/sass\/regions\/_header\.scss}line{font-family:\000037}}
 .l-region--header {
   margin-left: 206px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.2doinforme\.com\/themes\/segundoinforme\/sass\/regions\/_header\.scss}line{font-family:\0000311}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.2doinforme\.com\/themes\/segundoinforme\/sass\/regions\/_header\.scss}line{font-family:\0000310}}
 .l-region--navigation {
   clear: both; }
 
