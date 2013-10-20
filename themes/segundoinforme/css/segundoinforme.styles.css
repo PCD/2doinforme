@@ -107,10 +107,9 @@ body.toolbar.toolbar-drawer {
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.2doinforme\.com\/themes\/segundoinforme\/sass\/layout\/_default\.scss}line{font-family:\0000328}}
 .front .view-segundo-informe .view-content {
-  /*background: white url(../images/flag-bg.png) repeat-y center 0;*/
-  background: white; }
+  background: white url(../images/flag-gray-bg.png) no-repeat center 0; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.2doinforme\.com\/themes\/segundoinforme\/sass\/layout\/_default\.scss}line{font-family:\0000332}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.2doinforme\.com\/themes\/segundoinforme\/sass\/layout\/_default\.scss}line{font-family:\0000331}}
 .l-content {
   background: white url(../images/olas-wide.png) no-repeat bottom center !important;
   padding-bottom: 165px; }
