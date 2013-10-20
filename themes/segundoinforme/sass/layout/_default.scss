@@ -26,6 +26,10 @@ body.toolbar.toolbar-drawer{
   margin: 0 -235px;*/
 }
 .front .view-segundo-informe .view-content{
-  background: white url(../images/flag-bg.png) repeat-y center 0;
-  /*background: white;*/
+  /*background: white url(../images/flag-bg.png) repeat-y center 0;*/
+  background: white;
+}
+.l-content{
+  background: white url(../images/olas-wide.png) no-repeat bottom center !important;
+  padding-bottom: 165px;
 }
