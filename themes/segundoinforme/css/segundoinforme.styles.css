@@ -281,18 +281,22 @@ body.toolbar.toolbar-drawer {
   color: #fff; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.2doinforme\.com\/themes\/segundoinforme\/sass\/components\/_slider\.scss}line{font-family:\000031}}
+.l-main {
+  clear: both; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.2doinforme\.com\/themes\/segundoinforme\/sass\/components\/_slider\.scss}line{font-family:\000034}}
 .front #views_slideshow_cycle_main_segundo_informe-page {
   background: black; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.2doinforme\.com\/themes\/segundoinforme\/sass\/components\/_slider\.scss}line{font-family:\000034}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.2doinforme\.com\/themes\/segundoinforme\/sass\/components\/_slider\.scss}line{font-family:\000037}}
 .front .views-slideshow-controls-bottom {
   background: white; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.2doinforme\.com\/themes\/segundoinforme\/sass\/components\/_slider\.scss}line{font-family:\000037}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.2doinforme\.com\/themes\/segundoinforme\/sass\/components\/_slider\.scss}line{font-family:\0000310}}
 #views_slideshow_cycle_teaser_section_segundo_informe-page {
   background: black; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.2doinforme\.com\/themes\/segundoinforme\/sass\/components\/_slider\.scss}line{font-family:\0000314}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.2doinforme\.com\/themes\/segundoinforme\/sass\/components\/_slider\.scss}line{font-family:\0000317}}
 #views_slideshow_cycle_main_segundo_informe-page,
 #views_slideshow_cycle_teaser_section_segundo_informe-page,
 .views-slideshow-cycle-main-frame-row,
@@ -300,35 +304,35 @@ body.toolbar.toolbar-drawer {
 #views_slideshow_cycle_main_segundo_informe-page .views-slideshow-cycle-main-frame-row-item img {
   width: 100% !important; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.2doinforme\.com\/themes\/segundoinforme\/sass\/components\/_slider\.scss}line{font-family:\0000318}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.2doinforme\.com\/themes\/segundoinforme\/sass\/components\/_slider\.scss}line{font-family:\0000321}}
 #views_slideshow_cycle_teaser_section_segundo_informe-page,
 #views_slideshow_cycle_main_segundo_informe-page .views-slideshow-cycle-main-frame-row-item img {
   height: auto !important; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.2doinforme\.com\/themes\/segundoinforme\/sass\/components\/_slider\.scss}line{font-family:\0000321}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.2doinforme\.com\/themes\/segundoinforme\/sass\/components\/_slider\.scss}line{font-family:\0000324}}
 #widget_pager_bottom_segundo_informe-page .views-slideshow-pager-field-item {
   padding-top: 10px;
   margin-right: 10px;
   overflow: hidden;
   float: left; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.2doinforme\.com\/themes\/segundoinforme\/sass\/components\/_slider\.scss}line{font-family:\0000327}}
-#widget_pager_bottom_segundo_informe-page .views-slideshow-pager-field-item.last {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.2doinforme\.com\/themes\/segundoinforme\/sass\/components\/_slider\.scss}line{font-family:\0000330}}
+#widget_pager_bottom_segundo_informe-page .views-slideshow-pager-field-item.third {
   margin-right: 0;
   float: right; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.2doinforme\.com\/themes\/segundoinforme\/sass\/components\/_slider\.scss}line{font-family:\0000331}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.2doinforme\.com\/themes\/segundoinforme\/sass\/components\/_slider\.scss}line{font-family:\0000334}}
 #widget_pager_bottom_segundo_informe-page .views-slideshow-pager-field-item img {
   width: 100%;
   height: auto;
   cursor: pointer; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.2doinforme\.com\/themes\/segundoinforme\/sass\/components\/_slider\.scss}line{font-family:\0000337}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.2doinforme\.com\/themes\/segundoinforme\/sass\/components\/_slider\.scss}line{font-family:\0000340}}
 #cboxLoadedContent > div,
 #cboxLoadedContent .media-youtube-video {
   height: 100%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.2doinforme\.com\/themes\/segundoinforme\/sass\/components\/_slider\.scss}line{font-family:\0000340}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.2doinforme\.com\/themes\/segundoinforme\/sass\/components\/_slider\.scss}line{font-family:\0000343}}
 .media-youtube-player {
   width: 100% !important;
   height: 100% !important; }

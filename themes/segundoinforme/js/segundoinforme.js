@@ -23,6 +23,7 @@
   
   function prepareSlider() {
     $('#widget_pager_bottom_segundo_informe-page .views-slideshow-pager-field-item:last').addClass('last');
+    $('#widget_pager_bottom_segundo_informe-page .views-slideshow-pager-field-item:nth-child(3n)').addClass('third');
   }
   
   function adjustSliderDimensions() {
